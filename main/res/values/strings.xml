@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Team 11 Battle Ship</string>
+    <string name="welcome"><big>Welcome to 476 Battleship</big></string>
+    <string name="playerInput1">Player 1</string>
+    <string name="playerInput2">Player 2</string>
+    <string name="help">Help</string>
+    <string name="surrender">Surrender</string>
+    <string name="win">won!</string>
+    <string name="lose">lost!</string>
+    <string name="playerSurrender">surrenders!</string>
+    <string name="gameOver">GAME OVER!</string>
+    <string name="back">New Game</string>
+    <string name="start">Start</string>
+    <string name="firstPlace"> places their battleships first</string>
+    <string name="secondPlace"> places their battleships second</string>
+    <string name="done">Done</string>
+    <string name="hitOrMiss"> </string>
+    <string name="Placement"> </string>
+    <string name="hitShip">That was a Hit!</string>
+    <string name="helpTitle">How to Play</string>
+    <string name="helpText">\u2022 Once names are filled in, press Start. \n\n
+                \u2022 Place your 4 ships on the board then click done. \n\n
+                \u2022 Once all ships are placed, click done and the game begins. \n\n
+                \u2022 Current player selects a cell to attack. \n\n
+                \u2022 The game is finished when a player sinks their enemies ships or surrenders!</string>
+</resources>
